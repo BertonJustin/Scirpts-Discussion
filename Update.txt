@@ -1,0 +1,6 @@
+git add .
+git commit -m 初始化提交
+git branch -M main
+git remote remove origin
+git remote add origin httpsgithub.comBertonJustinScirpts-Discussion.git
+git push -u origin main
