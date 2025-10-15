@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "New Version"
+git commit -m "New Version 1.0"
 git branch -M main
 git remote remove origin
 git remote add origin https://github.com/BertonJustin/Scirpts-Discussion.git
