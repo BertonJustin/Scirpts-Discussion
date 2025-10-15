@@ -150,7 +150,7 @@ export default defineConfig({
 
     //编辑本页
     editLink: {
-      pattern: 'https://github.com/BertonJustin/Yishan-Scirpt-Discussion', // 改成自己的仓库
+      pattern: 'https://github.com/BertonJustin/Scirpt-Discussion', // 改成自己的仓库
       text: '在GitHub编辑本页'
     },
 
@@ -265,7 +265,7 @@ export default defineConfig({
         // You can include a custom label for accessibility too (optional but recommended):
         ariaLabel: 'QQ'
       },
-      { icon: 'github', link: 'https://github.com/BertonJustin/Yishan-Scirpt-Discussion' },
+      { icon: 'github', link: 'https://github.com/BertonJustin' },
       { icon: 'discord', link: 'https://chat.vitejs.dev/' },
  
     ],

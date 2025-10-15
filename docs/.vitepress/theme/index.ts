@@ -111,10 +111,10 @@ export default {
 
     // giscus配置
     giscusTalk({
-      repo: 'BertonJustin/Yishan-Scirpt-Discussion', //仓库
-      repoId: 'R_kgDOQCgefg', //仓库ID
+      repo: 'BertonJustin/Scirpts-Discussion', //仓库
+      repoId: 'R_kgDOQDJJGw', //仓库ID
       category: 'General', // 讨论分类
-      categoryId: 'DIC_kwDOQCgefs4CwpK5', //讨论分类ID
+      categoryId: 'DIC_kwDOQDJJG84Cwr-c', //讨论分类ID
       mapping: 'pathname',
       inputPosition: 'bottom',
       lang: 'zh-CN',
