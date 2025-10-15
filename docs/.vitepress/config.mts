@@ -50,12 +50,12 @@ export default defineConfig({
     },
 
     config: (md) => {
-      // 组件插入h1标题下
-      md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
-        let htmlResult = slf.renderToken(tokens, idx, options)
-        if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`
-        return htmlResult
-      },
+      // // 组件插入h1标题下
+      // md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
+      //   let htmlResult = slf.renderToken(tokens, idx, options)
+      //   if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`
+      //   return htmlResult
+      // },
 
       // 代码组中添加图片
       md.use((md) => {
