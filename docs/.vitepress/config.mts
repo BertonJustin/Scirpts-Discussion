@@ -193,6 +193,15 @@ export default defineConfig({
         ],
       },
       {
+        text: 'Yishan_decal',
+        collapsed: true,
+        items: [
+          { text: '安装方法', link: '/document/Yishan_decal/Install' },
+          { text: '添加贴纸', link: '/document/Yishan_decal/Config' },
+          { text: '常见错误', link: '/document/Yishan_decal/Error' },
+        ],
+      },
+      {
         text: 'Yishan_HotelJob',
         collapsed: true,
         items: [
