@@ -275,7 +275,7 @@ export default defineConfig({
         ariaLabel: 'QQ'
       },
       { icon: 'github', link: 'https://github.com/BertonJustin' },
-      { icon: 'discord', link: 'https://chat.vitejs.dev/' },
+      { icon: 'discord', link: 'https://discord.gg/B9KF7SQE' },
  
     ],
 
