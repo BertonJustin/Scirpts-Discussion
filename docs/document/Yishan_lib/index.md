@@ -5,7 +5,7 @@
 #### 获取脚本
 
 ::: info 点击获取脚本
-[Yishan_lib](https://yishans.tebex.io/package/7024872)
+[Yishan_lib](https://yishani.tebex.io/package/7024872)
 :::
 
 ## 安装与配置

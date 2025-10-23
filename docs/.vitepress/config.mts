@@ -167,7 +167,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文档', link: '/start' },
-      { text: '商店', link: 'https://yishans.tebex.io/', noIcon: true },
+      { text: '商店', link: 'https://yishani.tebex.io/', noIcon: true },
       
     ],
 
@@ -202,19 +202,9 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Yishan_HotelJob',
-        collapsed: true,
-        items: [
-          { text: '安装方法', link: '/Install_HotelJob' },
-          { text: '配置说明', link: '/Config_HotelJob' },
-          { text: '常见错误', link: '/Error_HotelJob' },
-        ],
-      },
-      {
         text: '免费脚本',
         collapsed: false,
         items: [
-          { text: 'Yishan_ui', link: '/document/Yishan_ui' },
           { text: 'Yishan_Notify', link: '/document/Yishan_Notify/docs' },
           { text: 'Yishan_Textui', link: '/document/Yishan_Textui/docs' },
           { text: 'Yishan_Text3D', link: '/document/Yishan_Text3D/docs' },
@@ -297,7 +287,7 @@ export default defineConfig({
 
     //大纲显示2-3级标题
     outline: {
-      level: [0, 1],
+      level: [0, 3],
       label: '当前文档'
     },
 

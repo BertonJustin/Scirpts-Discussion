@@ -8,7 +8,7 @@ comment: false
 
 ## 快速连接
 
-🔗 商店：https://yishans.tebex.io
+🔗 商店：https://yishani.tebex.io
 
 🔧 售后QQ群：[811576472](https://qm.qq.com/q/sjsTBlNJss)
 
